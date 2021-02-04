@@ -1,9 +1,0 @@
-{
-    "rest-client.environmentVariables": {
-        "sandbox": {
-            "baseUrl": "https://gateway.nubentos.com:443",
-            "authorization": "TUJXc1FvS0tjOHEybzM5cmZxbHM2cmNTNnVzYTpvN05adXpoOXlhcThiXzZ1VEVtemlOQVlocGNh",
-        },
-        "production": {}
-    }
-}
